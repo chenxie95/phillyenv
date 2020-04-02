@@ -1,0 +1,9 @@
+# Most recently edited files in Vim (version 3.0)
+/workspace/rnnt/sleep.json
+/workspace/rnnt/sleep.sh
+/workspace/rnnt/traindir/8gpu-seed.yaml
+/workspace/rnnt/traindir/chunk_30k_32g_uni_hit_lars_50sync_lr01_10w_10.hvd.test.yaml
+/workspace/rnnt/configs/rnnt/8gpu-seed.yaml
+/workspace/rnnt/traindir/chunk_30k_32g_uni_hit_lars_50sync_lr01_10w_10.hvd.yaml.test
+/workspace/rnnt/train.py
+/root/.vimrc
